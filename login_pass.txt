@@ -1,0 +1,2 @@
+user=testSMTP
+pass=123SmTp
